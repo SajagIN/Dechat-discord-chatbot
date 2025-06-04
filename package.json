@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeWhiteWeb/Dechat-discord-chatbot.git"
+    "url": "git+https://github.com/SajagIN/Dechat-discord-chatbot.git"
   },
   "keywords": [
     "chatbot-discord",
@@ -27,10 +27,10 @@
     "discordjschatbot",
     "discor.djs"
   ],
-  "author": "CodeWhiteWeb",
+  "author": "SajagIN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeWhiteWeb/Dechat-discord-chatbot/issues"
+    "url": "https://github.com/SajagIN/Dechat-discord-chatbot/issues"
   },
-  "homepage": "https://github.com/CodeWhiteWeb/Dechat-discord-chatbot#readme"
+  "homepage": "https://github.com/SajagIN/Dechat-discord-chatbot#readme"
 }

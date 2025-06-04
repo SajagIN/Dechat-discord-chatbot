@@ -4,7 +4,7 @@ const Discord = require('discord.js');
 const express = require('express')
 const app = express()
 const port = 8080
-app.get('/', (req, res) => res.send('Created By CodeWhiteWeb  , Check Out Chatari :  https://dsc.gg/chatari       ,   all Possible parameters for chatbot settings :-    https://gist.github.com/CodeWhiteWeb/af80da4c1942f6a5df7118a3f64ea363 '))
+app.get('/', (req, res) => res.send('Created By SajagIN  , Check Out Chatari :  https://dsc.gg/chatari       ,   all Possible parameters for chatbot settings :-    https://gist.github.com/SajagIN/af80da4c1942f6a5df7118a3f64ea363 '))
 
 app.listen(port, () =>
   console.log(`Your app is listening to http://localhost:${port}`)
@@ -30,7 +30,7 @@ client.on("message", async message => {
     const chat = new Chat({
       user: uid,
       name: "Chatari"//name of bot
-      // all Possible parameters :-    https://gist.github.com/CodeWhiteWeb/af80da4c1942f6a5df7118a3f64ea363
+      // all Possible parameters :-    https://gist.github.com/SajagIN/af80da4c1942f6a5df7118a3f64ea363
     });
 
 
@@ -49,8 +49,8 @@ client.on("message", async message => {
   }
 });
 
-/* Created By CodeWhiteWeb
-My profile : https://github.com/CodeWhiteWeb
+/* Created By SajagIN
+My profile : https://github.com/SajagIN
 NPM Package link : https://codewhiteweb.cf/Chatbot-discord
  better version :- https://dsc.gg/chatari */
 
