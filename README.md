@@ -43,7 +43,7 @@ npm install
     const chat = new Chat({
       user: uid,                      // required DO NOT REMOVE
       name: "Chatari",                // name of bot
-      developer_name: "CodeWhiteweb", // your name
+      developer_name: "SajagIN",      // your name
       age: "1 year",                  // bot's age
       color:"Blue"                    // bot's favourite color
       
@@ -61,7 +61,7 @@ npm start
 
 👤 **SajagIN**
 
-* Website: https://SajagIN.cf
+* Website: https://SajagIN.github.io
 * Twitter: [@codewhiteweb1](https://twitter.com/codewhiteweb1)
 * Github: [@SajagIN](https://github.com/SajagIN)
 
