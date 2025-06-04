@@ -15,7 +15,7 @@
   </a>
 </p>
 
-> A Simple Discord Chatbot Created by Codewhiteweb
+> A Simple Discord Chatbot Created by SajagIN
 
 ### 🏠 [Homepage](https://github.com/SajagIN/Dechat-discord-chatbot#readme)
 
